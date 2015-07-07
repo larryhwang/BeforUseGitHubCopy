@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Block&#x4e0e;&#x76d1;&#x542c;&#x5668;"
+      name = "Block&#x4e0e;&#x76d1;&#x542c;&#x5668;">
+      <FileRef
+         location = "group:Button.h">
+      </FileRef>
+      <FileRef
+         location = "group:Button.m">
+      </FileRef>
+      <FileRef
+         location = "group:main.m">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
